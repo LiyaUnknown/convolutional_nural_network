@@ -26,7 +26,7 @@ It's not to bad 😁🤏
 
 red title means the prediction is not correct 🟢 but blue one means the prediction is correct 🔵
 
-# Here is a convolutional neural network with activation func 'Relu'
+# Here is a convolutional neural network with activation func
 
 ### Relu
 <img src = 'https://github.com/LiyaUnknown/convolutional_nural_network/blob/main/Relu%20func%20res.png' >
